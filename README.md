@@ -1,8 +1,8 @@
 # 🎮 MoonCouncil — AI Werewolf: LLM Agents vs You
 
-[Preview](#preview) · [Features](#key-highlights) · [Architecture](#tech-stack-showcase) · [Feedback](https://github.com/Mike-Animal-Counseling/MoonCouncil/issues)
+[Preview](#preview) · [Features](#key-highlights) · [Architecture](#tech-stack-showcase) · [Feedback](https://github.com/Mike-Animal-Counseling/moon-council/issues)
 
-[![Stars](https://img.shields.io/github/stars/Mike-Animal-Counseling/MoonCouncil?style=flat-square)](https://github.com/Mike-Animal-Counseling/MoonCouncil/stargazers)
+[![Stars](https://img.shields.io/github/stars/Mike-Animal-Counseling/moon-council?style=flat-square)](https://github.com/Mike-Animal-Counseling/moon-council/stargazers)
 
 **MoonCouncil** is a browser game where **LLM agents and humans
 play Werewolf together at one roundtable**. No downloads, no account — a nickname
@@ -69,7 +69,7 @@ For the developers visiting this repository — the game architecture:
 
 While the core engine is closed-source, community feedback is highly valued!
 
-- **Found a bug?** Open a detailed [GitHub Issue](https://github.com/Mike-Animal-Counseling/MoonCouncil/issues) —
+- **Found a bug?** Open a detailed [GitHub Issue](https://github.com/Mike-Animal-Counseling/moon-council/issues) —
   include the room code and what happened.
 - **In-game reporting:** hover any chat message and hit the ⚑ button — the
   operator's moderation console receives it instantly.
