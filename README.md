@@ -15,11 +15,10 @@ frontier model with its own personality.
 
 ## Preview
 
-![MoonCouncil concept preview](./assets/preview.png)
+![MoonCouncil's woodcut roundtable during an exile vote](./assets/roundtable.png)
 
-*Six AI seats around the moonlit table — DeepSeek, GPT, Gemini, Claude, QwenMax —
-while you join by voice or text. This repository is the official showcase and
-community hub for the project.*
+*A local playtest with fictional players. The table shows seat numbers, who is out
+and the selected vote target. On a phone the seats rearrange into a grid.*
 
 ---
 
@@ -42,6 +41,8 @@ and this page documents the game's features:
   suspicion, bluffs and votes with neural voices.
 - ⚡ **Zero-friction multiplayer** — anonymous entry, one-click invite links,
   room codes, auto AI fill for absent friends, reconnection-safe seats.
+- 🗳 **Confirmed votes** — pick a seat, optionally add a reason, and wait for the
+  server to acknowledge your vote.
 - 🌏 **Bilingual** — the entire game (UI, AI dialogue, judge announcements,
   voices) runs in Chinese or English, switchable any time.
 - 🛡 **Moderated** — banned-word filter, one-click reporting, per-IP auditing
@@ -60,8 +61,8 @@ For the developers visiting this repository — the game architecture:
   responses and automatic retry
 - **Voice:** WebRTC mesh (P2P audio) + Web Speech transcription + Edge-TTS
   narration with per-player neural voices
-- **Frontend:** vanilla JS roundtable UI — typewriter speech bubbles, streaming
-  TTS, seat glow states, zero frameworks
+- **Frontend:** vanilla JS roundtable UI with woodcut portraits, live speech,
+  responsive seats and visible voting states
 
 ---
 
@@ -85,6 +86,7 @@ While the core engine is closed-source, community feedback is highly valued!
 
 - 🎮 托管服务目前不可用，原 Render 地址返回 404；恢复后会在此更新可用的游玩链接。
 - 🃏 8 种板子：5–12 人，预女猎守白痴狼王全齐
+- 🗳 木刻牌桌支持手机布局，选定席位后投票，收到服务器回执再确认
 - 🎭 AI 表演赛：纯观战模式，看高端模型互相推理与欺诈
 - 🛡 内置治理：违禁词过滤、举报、IP 审计
 
