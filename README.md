@@ -17,8 +17,9 @@ frontier model with its own personality.
 
 ![MoonCouncil's woodcut roundtable during an exile vote](./assets/roundtable.png)
 
-*A local playtest with fictional players. The table shows seat numbers, who is out
-and the selected vote target. On a phone the seats rearrange into a grid.*
+*A local playtest with fictional players. The round and speaker are shown on the
+table itself. A wax seal marks the selected vote, and a struck portrait marks an
+eliminated player. The record opens when needed, and seats rearrange on phones.*
 
 ---
 
